@@ -2,9 +2,10 @@
 
 ## I'm a bootcamp / self-taught software developer!
 
-- I'm currently trying to make as many projects as I can.
-- I enjoy learning something new everyday.
-- I love going to the gym.
+- I'm currently trying to make as many projects as I can. :octocat: 
+- I enjoy learning something new everyday. ✏️
+- My text editor of choice is Vim. I love me some Vim! 😁
+- My hobbies are mostly gym and poker. 📈
 
 
 ### Connect with me:
