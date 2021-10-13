@@ -1,12 +1,6 @@
-## Hi there, my name is Bence
+### Hi there, my name is Bence!
 
-## I'm a bootcamp / self-taught software developer!
-
-- I'm currently trying to make as many projects as I can. :octocat: 
-- I enjoy learning something new everyday. ✏️
-- My text editor of choice is Vim. I love me some Vim! 😁
-- My hobbies are mostly gym and poker. 📈
-
+I'm a Junior Frontend Developer at DXC Technology.
 
 ### Connect with me:
 [<img align="left" alt="LinkedInProfile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
